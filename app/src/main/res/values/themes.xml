@@ -12,7 +12,7 @@
     <style name="Widget.App.Toolbar" parent="Widget.Material3.Toolbar">
 
         <item name="colorSurface">@color/primaryColor</item>
-        <item name="colorOnSurface">@color/primaryDarkColor</item>
+        <item name="colorOnSurface">#FFFFFF</item>
     </style>
 
 <!--    <style name="ThemeOverlay.App.Toolbar" parent="">-->
